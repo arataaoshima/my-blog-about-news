@@ -1,3 +1,14 @@
 @import "semantic-ui";
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.container {
+    text-align:center;
+   
+}
+
+
+.content-image {
+    object-fit: cover;
+    max-width:100%;
+}

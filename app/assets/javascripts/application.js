@@ -20,3 +20,8 @@
 func1 = function(){
     alert("Hello World!");
 }
+
+$(document).on('turbolinks:load',function(){
+    
+    
+})
